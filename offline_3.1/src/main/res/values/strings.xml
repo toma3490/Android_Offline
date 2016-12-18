@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Offline</string>
+    <string name="telephone">telephone</string>
+    <string name="call">Call</string>
+    <string name="find">Find</string>
+    <string name="open">Open site</string>
+</resources>

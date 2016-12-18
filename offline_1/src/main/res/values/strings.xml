@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Offline_1</string>
+    <string name="enter_your_number">Enter your number</string>
+    <string name="push_me">Push ME</string>
+</resources>

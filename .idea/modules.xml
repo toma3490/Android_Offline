@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Offline_practice.iml" filepath="$PROJECT_DIR$/Offline_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offline_1/offline_1.iml" filepath="$PROJECT_DIR$/offline_1/offline_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offline_1.1/offline_1.1.iml" filepath="$PROJECT_DIR$/offline_1.1/offline_1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offline_2.1/offline_2.1.iml" filepath="$PROJECT_DIR$/offline_2.1/offline_2.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offline_2.2/offline_2.2.iml" filepath="$PROJECT_DIR$/offline_2.2/offline_2.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offline_2.3/offline_2.3.iml" filepath="$PROJECT_DIR$/offline_2.3/offline_2.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offline_3.1/offline_3.1.iml" filepath="$PROJECT_DIR$/offline_3.1/offline_3.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offline_3.2/offline_3.2.iml" filepath="$PROJECT_DIR$/offline_3.2/offline_3.2.iml" />
+    </modules>
+  </component>
+</project>
